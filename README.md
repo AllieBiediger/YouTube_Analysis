@@ -13,8 +13,10 @@ This project explores the factors that influence YouTube video engagement, with 
 ### Files:
 *“all_youtube_analytics.zip”*
 * contains the data set used for the analysis
+  
 *“Youtube_Engagement_Analysis.ipynb”*
 * contains the jupyter notebook code for data cleaning, analysis and modeling
+
 *“Youtube_Engagement_Analysis.pdf”*
 * Contains the a paper with full analysis with visualization and findings
 
